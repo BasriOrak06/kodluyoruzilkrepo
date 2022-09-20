@@ -1,3 +1,4 @@
+www.patika.dev
 # Kodluyoruz Ilk Repo
 `Bu repo kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.`
 # Installation
